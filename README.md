@@ -1,7 +1,7 @@
 # Boletim Escolar
 Boletim Escolar 2016
 
-E um sistema de gerenciamento escolar.
+Sistema de Gerenciamento Escolar.
 
 # Versão 1.0
 * Cadastro de Niveis (Diretores, Vices, Secretários, Professores, Alunos e Responsáveis)
