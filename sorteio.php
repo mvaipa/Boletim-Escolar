@@ -48,4 +48,3 @@ function random($nNumeros, $nQuant)
 
    $i++;
   } 
-?> 
